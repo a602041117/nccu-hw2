@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+results/*.txt   # 如果你不想公開你的比較結果，可忽略
+
